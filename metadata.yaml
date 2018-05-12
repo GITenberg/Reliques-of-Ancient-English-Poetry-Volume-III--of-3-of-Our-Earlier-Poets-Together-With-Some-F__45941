@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43533'
     url: http://www.gutenberg.org/2009/agents/43533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45941#Reliques-of-Ancient-English-Poetry-Volume-III--of-3-of-Our-Earlier-Poets-Together-With-Some-F_
 gutenberg_issued: '2014-06-11'
 gutenberg_type: Text
 identifiers:
