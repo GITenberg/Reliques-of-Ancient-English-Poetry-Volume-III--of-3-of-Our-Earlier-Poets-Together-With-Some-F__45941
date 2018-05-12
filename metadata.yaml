@@ -1,0 +1,41 @@
+_repo: Reliques-of-Ancient-English-Poetry-Volume-III--of-3-of-Our-Earlier-Poets-Together-With-Some-F__45941
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45941-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+  - agent_name: Percy, Thomas
+    alias: Percy, Thomas, Bp. of Dromore
+    birthdate: 1729
+    deathdate: 1811
+    gutenberg_agent_id: '43533'
+    url: http://www.gutenberg.org/2009/agents/43533
+description: ''
+gutenberg_issued: '2014-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Minstrels'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Ballads, English -- Texts'
+- !lcsh 'English language -- Early modern, 1500-1700 -- Glossaries, vocabularies,
+  etc.'
+- !lcsh 'Romances, English -- History and criticism'
+title: "Reliques of Ancient English Poetry, Volume 3 (of 3)\r\nConsisting of Old Heroic\
+  \ Ballads, Songs and Other Pieces of Our Earlier Poets Together With Some Few of\
+  \ Later Date"
+url: http://www.gutenberg.org/ebooks/45941
